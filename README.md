@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pixelated-Nick
 - 👀 I’m interested in videogame programing and web pages devolopment
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking to collaborate with someone
 <!---
 Pixelated-Nick/Pixelated-Nick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
