@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pixelated-Nick
-- 👀 I’m interested in videogame programing and web pages devolopment
+- 👀 I’m interested in videogame programing and web pages development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking to collaborate with someone
 <!---
