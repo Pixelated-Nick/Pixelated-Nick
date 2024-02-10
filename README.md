@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Pixelated-Nick
-- 👀 I’m interested in videogame programing and web pages development
+- 👀 I’m interested in videogame and web pages development and coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking to collaborate with someone
+- Fav games: Half-Life, Doom, Quake 3, Touhou fighting games, etc.
 <!---
 Pixelated-Nick/Pixelated-Nick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
